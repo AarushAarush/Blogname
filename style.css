@@ -1,16 +1,42 @@
-#contact iframe
-{
+#contact iframe {
     width: 100%;
 }
-.travel_maindiv{
-    border:1px solid blue;
+
+.travel_maindiv {
+    border: 1px solid blue;
 }
-.travel_maindiv img{
-width: 100%;
+
+.travel_maindiv img {
+    width: 100%;
 }
-.travel_maindiv h5{
+
+.travel_maindiv h5 {
     margin: 20px;
 }
-.travel_maindiv p{
+
+.travel_maindiv p {
     margin-left: 20px;
+}
+
+.moviehead {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.moviehead i {
+    float: right;
+}
+
+.movie_text span {
+    color: goldenrod;
+}
+
+.book hr {
+    margin-bottom: 20px;
+}
+
+.book {
+    margin-bottom: 20px;
 }
